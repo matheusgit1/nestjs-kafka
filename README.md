@@ -4,7 +4,7 @@ Esse repositório é um estudo e exemplo de aplicação usando nestjs + kafka co
 
 Arquitetura Sugerida.
 
-![Arquitetura](https://github.com/matheusgit1/handler-eventos/blob/develop/imagens/Captura%20de%20tela%202024-01-25%20215933.png)
+![Arquitetura](https://github.com/matheusgit1/nestjs-kafka/blob/main/imagens/Captura%20de%20tela%202024-01-26%20215957.png)
 
 ## Stack utilizada
 
